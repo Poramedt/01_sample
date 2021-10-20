@@ -51,3 +51,6 @@ try with 2 space after the heading.
 ## Try branching and delete the branch
 
 1. make chage
+
+## first change afte delete no-use branch
+want to see the history of master.
