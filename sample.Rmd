@@ -46,10 +46,16 @@ try without space between line.
 ## 2nd change after branch
 
 
+<<<<<<< HEAD
 try with 2 space after the heading.
+
+add something after come back with SHA no.
 
 ## Try come back to previous commit
 
 1. make chage
 2. make chang and plan to go back to change no.1 by SHA no.
 3. make change and will go back.
+=======
+try with 2 space after the heading.
+>>>>>>> parent of 043cd80 (strat new project: SHA no.)
