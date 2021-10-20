@@ -51,16 +51,3 @@ try with 2 space after the heading.
 ## Try come back to previous commit
 
 1. make chage
-2. make chang and plan to go back to change no.1 by SHA no.
-<<<<<<< HEAD
-3. make change and will go back.
-=======
-try with 2 space after the heading.
->>>>>>> parent of 043cd80 (strat new project: SHA no.)
-
-2nd add after SHA no.
-=======
-3. make change and will go back.
->>>>>>> parent of c257dcf (some changes after go back with SHA no.)
-
-better not to use this!!
